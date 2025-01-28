@@ -30,12 +30,34 @@ taken from Kaggle, where the scans and corresponding binary
 masks were uploaded as 256x256 pixel images.
 
 ## Model architecture
+![image](https://github.com/user-attachments/assets/b84f879a-b31f-4a06-86c1-496cc5821b87)
+
 
 ## Experiments conducted
 
 ## Uncertainty and boundary analysis
 
 ## Results 
+![image](https://github.com/user-attachments/assets/f0d6e77a-1d48-44b3-bafc-e3bd8c630e0a)
+![image](https://github.com/user-attachments/assets/6d796e80-fef1-45c6-b372-957f1cc0d2e1)
+![image](https://github.com/user-attachments/assets/28a3c1c7-10a6-40a1-9f89-95587faa4ad8)
+
+
+
+### Training graphs
+![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
+
+
+### Uncertainty distribution for different augmentations
+![image](https://github.com/user-attachments/assets/6b05496f-dc48-4d3f-8ccc-275f6c3037e2)
+
+
+### Uncertainty visualizations for different augmentations
+![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
+
+
+### Comparison with SOTA
+![image](https://github.com/user-attachments/assets/724f6b73-913e-4b03-aca6-5df670062e80)
 
 
 
