@@ -48,7 +48,6 @@ Two sets of parameter combinations were tested:
 ![image](https://github.com/user-attachments/assets/80a07156-4380-4f9f-9c3a-3dd0be9953a5)
 
 
-## Uncertainty and boundary analysis
 
 ## Results 
 ![image](https://github.com/user-attachments/assets/f0d6e77a-1d48-44b3-bafc-e3bd8c630e0a)
