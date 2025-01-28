@@ -34,7 +34,7 @@ masks were uploaded as 256x256 pixel images.
 
 
 ## Experiments conducted
-1. Focal loss parameterss
+#### Focal loss parameterss
 The α and γ parameters
 for focal loss were varied to evaluate their impact on segmentation
 performance. These experiments were conducted using
@@ -44,7 +44,7 @@ Two sets of parameter combinations were tested:
 (i) α=0.25, γ=2.0
 (ii) α=2.0, γ=0.75
 
-2. Data augmentation
+#### Data augmentation
 ![image](https://github.com/user-attachments/assets/80a07156-4380-4f9f-9c3a-3dd0be9953a5)
 
 
@@ -57,19 +57,19 @@ Two sets of parameter combinations were tested:
 
 
 
-### Training graphs
+#### Training graphs
 ![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
 
 
-### Uncertainty distribution for different augmentations
+#### Uncertainty distribution for different augmentations
 ![image](https://github.com/user-attachments/assets/6b05496f-dc48-4d3f-8ccc-275f6c3037e2)
 
 
-### Uncertainty visualizations for different augmentations
+#### Uncertainty visualizations for different augmentations
 ![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
 
 
-### Comparison with SOTA
+#### Comparison with SOTA
 ![image](https://github.com/user-attachments/assets/724f6b73-913e-4b03-aca6-5df670062e80)
 
 
