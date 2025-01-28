@@ -12,6 +12,8 @@ focal loss parameter tuning and studying the impact of three
 data augmentation techniques: Horizontal Flip, Rotation,
 and Scaling. 
 
+## Contents of Repository
+
 ## Dataset used
 For this study, a brain tumor dataset containing 3064 T1-
 weighted contrast-enhanced MRI images was used. The data
@@ -26,4 +28,16 @@ tumors. The tumor border was manually delineated
 by three experienced radiologists. A copy of this dataset was
 taken from Kaggle, where the scans and corresponding binary
 masks were uploaded as 256x256 pixel images.
+
+## Model architecture
+
+## Experiments conducted
+
+## Uncertainty and boundary analysis
+
+## Results 
+
+
+
+
 
