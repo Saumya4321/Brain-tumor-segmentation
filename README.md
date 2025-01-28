@@ -34,6 +34,19 @@ masks were uploaded as 256x256 pixel images.
 
 
 ## Experiments conducted
+1. Focal loss parameterss
+The α and γ parameters
+for focal loss were varied to evaluate their impact on segmentation
+performance. These experiments were conducted using
+the original dataset, without applying any data augmentation
+techniques.
+Two sets of parameter combinations were tested:
+(i) α=0.25, γ=2.0
+(ii) α=2.0, γ=0.75
+
+2. Data augmentation
+![image](https://github.com/user-attachments/assets/80a07156-4380-4f9f-9c3a-3dd0be9953a5)
+
 
 ## Uncertainty and boundary analysis
 
