@@ -15,6 +15,9 @@ and Scaling.
 ## Contents of Repository
 
 ## Dataset used
+
+![image](https://github.com/user-attachments/assets/297eaae0-7606-4f4d-a15c-b8d1a2bc2fd6)
+
 For this study, a brain tumor dataset containing 3064 T1-
 weighted contrast-enhanced MRI images was used. The data
 was collected from Nanfang Hospital and Tianjing Medical
