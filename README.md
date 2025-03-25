@@ -15,13 +15,13 @@ and Scaling.
 ## Contents of Repository
 
 ### Directories
-+ ```augmentation_experiments\``` directory
++ ```augmentation_experiments\``` directory\
 This directory contains the notebooks for all three data augmentation experiments done and their uncertainty analysis.
 DA1 - Horizontal flip
 DA2 - Rotation
 DA3 - Random scaling
 
-+ ```model_weights\``` directory
++ ```model_weights\``` directory\
 This directory contains a readme file with the link to download the best performing model weights.
 
 + ```Brain_Tumor_Segmentation_best.ipynb```
