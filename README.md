@@ -28,7 +28,7 @@ This directory contains a readme file with the link to download the best perform
 Notebook containing the best performing segmentation model
 
 + ```Inference_notebook_for_grading.ipynb```
-Inference notebook for grading. Before running this notebook, download the weights from [link](), the test data from ```test_data.zip``` and unzip them.
+Inference notebook for grading. Before running this notebook, download the weights from [link](https://drive.google.com/file/d/1YChnisdNceJbb9c4KcS6WbjdLOr4_B1K/view?usp=sharing), the test data from ```test_data.zip``` and unzip them.
 The notebook loads the model weights and runs inference on the provided test data provided in the zip file.
 + ```test_data.zip```
 
