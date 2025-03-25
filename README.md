@@ -14,22 +14,21 @@ and Scaling.
 
 ## Contents of Repository
 
-### Directories
-+ ```augmentation_experiments\``` directory\
++ ```augmentation_experiments\```\
 This directory contains the notebooks for all three data augmentation experiments done and their uncertainty analysis.
 DA1 - Horizontal flip
 DA2 - Rotation
 DA3 - Random scaling
 
-+ ```model_weights\``` directory\
++ ```model_weights\``` \
 This directory contains a readme file with the link to download the best performing model weights.
 
 + ```Brain_Tumor_Segmentation_best.ipynb```\
 Notebook containing the best performing segmentation model
 
 + ```Inference_notebook_for_grading.ipynb```\
-Inference notebook for grading. Before running this notebook, download the weights from [link](https://drive.google.com/file/d/1YChnisdNceJbb9c4KcS6WbjdLOr4_B1K/view?usp=sharing), the test data from ```test_data.zip``` and unzip them.
-The notebook loads the model weights and runs inference on the provided test data provided in the zip file.
+The notebook loads the model weights and runs inference on the provided test data provided in the zip file. Before running this notebook, download the weights from [link](https://drive.google.com/file/d/1YChnisdNceJbb9c4KcS6WbjdLOr4_B1K/view?usp=sharing) , the test data from ```test_data.zip``` and unzip them.
+
 + ```test_data.zip```\
 This zip file includes 6 images and masks in their respective directories. To be used for evaluation.
 
