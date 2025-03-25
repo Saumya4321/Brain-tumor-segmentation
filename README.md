@@ -15,10 +15,10 @@ and Scaling.
 ## Contents of Repository
 
 + ```augmentation_experiments\```\
-This directory contains the notebooks for all three data augmentation experiments done and their uncertainty analysis.\
+This directory contains the notebooks for all three data augmentation experiments done and their uncertainty analysis. The different data augmentation techniques are labeled as follows:\
 DA1 - Horizontal flip\
 DA2 - Rotation\
-DA3 - Random scaling\
+DA3 - Random scaling
 
 + ```model_weights\``` \
 This directory contains a readme file with the link to download the best performing model weights.
