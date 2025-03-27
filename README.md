@@ -1,4 +1,4 @@
-# Analyzing effect of different augmentation techniques on Brain Tumor Segmentation 
+# Using uncertainty analysis to study the effect of different augmentation techniques on Brain Tumor Segmentation 
 
 ## Motivation
 This project was done as a part of the '*AI for Medical Image Analysis - DS261*' course @ CDS, IISc.
