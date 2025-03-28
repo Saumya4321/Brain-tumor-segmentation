@@ -97,12 +97,13 @@ or no improvement in segmentation performance
 #### Uncertainty distribution for different augmentations
 ![image](https://github.com/user-attachments/assets/6b05496f-dc48-4d3f-8ccc-275f6c3037e2)
 
+Uncertainty distribution visualizations revealed that augmentation techniques reduced overall uncertainty, particularly
+at the boundaries.
 
 #### Uncertainty visualizations for different augmentations
 ![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
 
-Uncertainty distribution visualizations revealed that augmentation techniques reduced overall uncertainty, particularly
-at the boundaries.
+
 
 #### Comparison with SOTA
 ![image](https://github.com/user-attachments/assets/724f6b73-913e-4b03-aca6-5df670062e80)
