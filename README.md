@@ -108,6 +108,13 @@ at the boundaries.
 #### Comparison with SOTA
 ![image](https://github.com/user-attachments/assets/724f6b73-913e-4b03-aca6-5df670062e80)
 
+## Citation
+
+If you find this work useful, please cite:
+```
+Saumya4321. (2025). Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation. GitHub repository. https://github.com/Saumya4321/ds261-project
+```
+
 
 
 
