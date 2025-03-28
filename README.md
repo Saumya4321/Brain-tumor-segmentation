@@ -112,7 +112,8 @@ at the boundaries.
 
 If you find this work useful, please cite:
 ```
-Saumya4321. (2025). Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation. GitHub repository. https://github.com/Saumya4321/ds261-project
+Saumya4321, "Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation," 2025.
+GitHub repository - https://github.com/Saumya4321/ds261-project
 ```
 
 
