@@ -73,7 +73,7 @@ Two sets of parameter combinations were tested:
 
 ## Results 
 #### Results of focal loss parameters experiments
-![image](https://github.com/user-attachments/assets/f0d6e77a-1d48-44b3-bafc-e3bd8c630e0a)/
+![image](https://github.com/user-attachments/assets/f0d6e77a-1d48-44b3-bafc-e3bd8c630e0a)
  In the first case, the
 configuration prioritized hard-to-classify examples, particularly tumor boundaries, resulting in better performance. In
 the second case, the configuration emphasized the minor class
@@ -83,7 +83,8 @@ leading to weaker performance in challenging regions.
 #### Results of data augmentation experiments
 ![image](https://github.com/user-attachments/assets/6d796e80-fef1-45c6-b372-957f1cc0d2e1)
 
-![image](https://github.com/user-attachments/assets/28a3c1c7-10a6-40a1-9f89-95587faa4ad8)/
+![image](https://github.com/user-attachments/assets/28a3c1c7-10a6-40a1-9f89-95587faa4ad8)
+<br>
 Horizontal flip consistently improved performance across
 all metrics, making it the most effective augmentation technique. Rotation improved the Dice coefficient and IoU, indicating its effectiveness. Scaling, however, showed negligible
 or no improvement in segmentation performance
