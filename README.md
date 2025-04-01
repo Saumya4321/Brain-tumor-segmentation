@@ -92,7 +92,11 @@ leading to weaker performance in challenging regions.
 Horizontal flip consistently improved performance across
 all metrics, making it the most effective augmentation technique. Rotation improved the Dice coefficient and IoU, indicating its effectiveness. Scaling, however, showed negligible
 or no improvement in segmentation performance
-
+<br>
+Boundary-specific metrics—including
+mean boundary uncertainty and maximum boundary uncertainty—
+highlighted that applying augmentations like Horizontal
+Flip and Rotation decreased uncertainty at tumor boundaries.
 
 #### Training graphs
 ![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
@@ -105,8 +109,7 @@ achieving faster convergence and lower final loss.
 #### Uncertainty visualizations for different augmentations
 ![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
 
-Horizontal
-Flip and Rotation decreased uncertainty at tumor boundaries. This indicates that these techniques not only
+From the above images, it can be seen that the data augmentations decrease uncertainty at tumor boundaries to different extents. This indicates that these techniques not only
 improve segmentation accuracy but also enhance the model’s
 confidence in its predictions.
 
