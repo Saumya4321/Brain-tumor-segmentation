@@ -121,7 +121,8 @@ confidence in its predictions.
 
 #### Comparison with SOTA
 
-![image](https://github.com/user-attachments/assets/a4a03d57-b7ef-4e7f-a92c-83382fdb4c82)
+![Screenshot 2025-04-01 145957](https://github.com/user-attachments/assets/f5f08a7d-75ee-4362-9d10-d2802570c3a8)
+
 
 
 ## Citation
