@@ -50,9 +50,13 @@ tumors. The tumor border was manually delineated
 by three experienced radiologists. A copy of this dataset was
 taken from Kaggle, where the scans and corresponding binary
 masks were uploaded as 256x256 pixel images.
+## Preprocessing workflow
+![image](https://github.com/user-attachments/assets/e9bb6d5d-3397-4dde-8e77-542b10a5553a)
+
 
 ## Model architecture
 ![image](https://github.com/user-attachments/assets/b84f879a-b31f-4a06-86c1-496cc5821b87)
+
 
 
 ## Experiments conducted
