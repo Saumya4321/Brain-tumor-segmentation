@@ -97,17 +97,18 @@ or no improvement in segmentation performance
 #### Training graphs
 ![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
 
-
-#### Uncertainty distribution for different augmentations
-![image](https://github.com/user-attachments/assets/6b05496f-dc48-4d3f-8ccc-275f6c3037e2)
-
-Uncertainty distribution visualizations revealed that augmentation techniques reduced overall uncertainty, particularly
-at the boundaries.
+As seen from the training graphs, horizontal flip and rotation helps in achieving a lower
+final loss when compared to the baseline model. Horizontal
+flip has a more positive effect and can be seen to help in
+achieving faster convergence and lower final loss.
 
 #### Uncertainty visualizations for different augmentations
 ![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
 
-
+Horizontal
+Flip and Rotation decreased uncertainty at tumor boundaries. This indicates that these techniques not only
+improve segmentation accuracy but also enhance the model’s
+confidence in its predictions.
 
 #### Comparison with SOTA
 ![image](https://github.com/user-attachments/assets/724f6b73-913e-4b03-aca6-5df670062e80)
