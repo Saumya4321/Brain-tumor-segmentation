@@ -90,7 +90,7 @@ leading to weaker performance in challenging regions.
 <br>
 Horizontal flip consistently improved performance across
 all metrics, making it the most effective augmentation technique. Rotation improved the Dice coefficient and IoU, indicating its effectiveness. Scaling, however, showed negligible
-or no improvement in segmentation performance
+or no improvement in segmentation performance\\
 
 <br>
 
