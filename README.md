@@ -129,7 +129,7 @@ confidence in its predictions.
 
 If you find this work useful, please cite:
 ```
-Saumya4321, "Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation," 2025.
+Saumya B, "Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation," 2025.
 GitHub repository - https://github.com/Saumya4321/ds261-project
 ```
 
