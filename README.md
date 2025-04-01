@@ -120,7 +120,9 @@ improve segmentation accuracy but also enhance the model’s
 confidence in its predictions.
 
 #### Comparison with SOTA
-![image](https://github.com/user-attachments/assets/724f6b73-913e-4b03-aca6-5df670062e80)
+
+![image](https://github.com/user-attachments/assets/a4a03d57-b7ef-4e7f-a92c-83382fdb4c82)
+
 
 ## Citation
 
