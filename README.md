@@ -1,7 +1,7 @@
 # Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation
 
 ## Motivation
-This project was done as a part of the '*AI for Medical Image Analysis - DS261*' course @ CDS, IISc.
+This project was undertaken as the final project for the '*AI for Medical Image Analysis - DS261*' course @ CDS, IISc.
 
 ## Overview
 This study proposes a modified U-Net incorporating focal loss to address
