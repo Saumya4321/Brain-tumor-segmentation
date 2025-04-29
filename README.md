@@ -115,7 +115,7 @@ achieving faster convergence and lower final loss.
 #### Uncertainty visualizations for different augmentations
 ![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
 
-From the above images, it can be seen that the data augmentations decrease uncertainty at tumor boundaries to different extents. This indicates that these techniques not only
+From the above images, it can be seen that the data augmentations varies uncertainty at tumor boundaries to different extents. Scaling specifically, is seen to reduce uncertainty at tumor boundaries when compared to no-augmentation control case. This indicates that these techniques not only
 improve segmentation accuracy but also enhance the model’s
 confidence in its predictions.
 
