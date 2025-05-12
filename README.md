@@ -93,10 +93,6 @@ or no improvement in segmentation performance
 
 <br/>
 
-<br>
-
-![image](https://github.com/user-attachments/assets/28a3c1c7-10a6-40a1-9f89-95587faa4ad8)
-
 
 #### Training graphs
 ![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
