@@ -1,12 +1,11 @@
-# Uncertainty Analysis of Augmentation Techniques in Brain Tumor Segmentation
+# Comparison of Augmentation Techniques in Brain Tumor Segmentation
 
 ## Motivation
 This project was undertaken as the final project for the '*AI for Medical Image Analysis - DS261*' course @ CDS, IISc.
 
 ## Overview
 This study proposes a modified U-Net incorporating focal loss to address
-class imbalance and Monte Carlo Dropout for uncertainty
-estimation, providing interpretable predictions. The model
+class imbalance. The model
 was evaluated on MRI data, with experiments focusing on
 focal loss parameter tuning and studying the impact of three
 data augmentation techniques: Horizontal Flip, Rotation,
@@ -98,11 +97,6 @@ or no improvement in segmentation performance
 
 ![image](https://github.com/user-attachments/assets/28a3c1c7-10a6-40a1-9f89-95587faa4ad8)
 
-<br>
-Boundary-specific metrics—including
-mean boundary uncertainty and maximum boundary uncertainty—
-highlighted that applying augmentations like Horizontal
-Flip and Rotation decreased uncertainty at tumor boundaries.
 
 #### Training graphs
 ![image](https://github.com/user-attachments/assets/35517e31-c5a4-4b57-8354-9b02d6aaba70)
@@ -112,12 +106,6 @@ final loss when compared to the baseline model. Horizontal
 flip has a more positive effect and can be seen to help in
 achieving faster convergence and lower final loss.
 
-#### Uncertainty visualizations for different augmentations
-![image](https://github.com/user-attachments/assets/40279e84-4411-42e9-b9ad-64ffc4efbd32)
-
-From the above images, it can be seen that the data augmentations varies uncertainty at tumor boundaries to different extents. Scaling specifically, is seen to reduce uncertainty at tumor boundaries when compared to no-augmentation control case. This indicates that these techniques not only
-improve segmentation accuracy but also enhance the model’s
-confidence in its predictions.
 
 #### Comparison with SOTA
 
